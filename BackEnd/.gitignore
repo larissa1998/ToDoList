@@ -1,0 +1,60 @@
+# Arquivos de Bytecode
+*.nupkg
+*.dll
+*.exe
+*.pdb
+*.com
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de Ferramentas do Visual Studio
+.vs/
+.vscode/
+
+# Pastas de Build e Output
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Tt]est[Rr]esult*/
+
+# Arquivos de Configuração
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Arquivos de Pacotes
+packages/
+*.csproj.user
+*.snk
+*.vspscc
+*.vssscc
+*.pubxml
+*.publishsettings
+*.local.settings.json
+
+# Arquivos de banco de dados locais
+*.mdf
+*.ldf
+*.sqlite
+
+# Pasta de Ferramentas de Runtime
+runtimes/
+
+# Arquivos de Cobertura de Testes e Relatórios
+coverage.opencover.xml
+coverage.cobertura.xml
+*.coverage
+*.coveragexml
+*.trx
+
+# Arquivos de Armazenamento de Credenciais
+*.config
+
+# Diretórios de Node.js
+node_modules/
+
+# Outros arquivos e diretórios
+.DS_Store
+Thumbs.db
