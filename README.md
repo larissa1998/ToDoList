@@ -1,4 +1,23 @@
-# Task Manager API (BACKEND)
+#Task Manager (FrontEnd)
+- **Next js**: estrutura de desenvolvimento web para React.
+
+## Executar local
+1. conectar o back end
+2. instalar as dependencias do projeto
+ ```
+ npm install ou yarn install
+```
+3.  Rodar aplicação
+ ```
+ npm run dev ou yarn run dev
+```
+
+## visual da aplicação
+
+![image](https://github.com/larissa1998/ToDoListTest/assets/19778881/38f492df-9640-4823-b80e-4a22ed0be02b)
+
+
+# Task Manager API (BackEnd)
 
 Este projeto é uma API RESTFul para gerenciamento de tarefas, permitindo operações CRUD (Criar, Ler, Atualizar, Deletar) sobre tarefas. Foi desenvolvido usando C# e .NET 7, empregando o Entity Framework Core para interação com o banco de dados SQL Server.
 
